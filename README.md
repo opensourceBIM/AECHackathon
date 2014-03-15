@@ -1,1 +1,1 @@
-Short introduction to our projects is available on https://github.com/opensourceBIM/AECHackathon/wiki  
+Nothing here, go to https://github.com/opensourceBIM/AECHackathon/wiki  
